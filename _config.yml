@@ -1,0 +1,51 @@
+# Basic
+title: 网络安全联盟在线文档
+subtitle: 突破限制，访问资源
+welcome_message: <a href="/2018/08/使用说明列表/" target="_blank">文档目录</a>
+#description: Vno Jekyll is a port of my Ghost theme vno.
+#creator: <a href="http://onev.cat">@onevcat</a>
+
+url: "https://www.anyc.ml"
+
+permalink: /:year/:month/:title/
+
+# Format
+highlighter: rouge
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: red
+
+# The blog button should not be removed.
+blog_button:
+    title: 使用文档
+    description: 在线教程
+
+# Navigation buttons in the front page.
+nav:
+    - {title: 返回主页, description: 网络安全联盟 主页, url: 'https://www.anyfq.com'}
+    # - {title: Another Button, description: A button, url: 'http://example.com'}
+
+# Pagination
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "page/:num/"
+
+# Comment
+comment:
+    # disqus: VPNPro
+    # duoshuo: 
+    
+# Social
+social:
+    facebook: daigang0701@gmail.com
+    twitter: daigang0701@gmail.com
+    gplus: daigang0701@gmail.com
+    mail: daigang0701@gmail.com
+
+# Google Analytics
+ga:
+    # id: your_ga_id
+    # host: your_host
+kramdown:
+  # parse markdown inside block-level HTML tag
+  parse_block_html: true
