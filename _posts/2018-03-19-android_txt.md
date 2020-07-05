@@ -42,8 +42,8 @@ categories:  安卓 Anyconnect
 
 >de.fanq.in（德国/Germany）
 
-<!-- >es.fanq.in（西班牙/Spain）
- -->
+>es.fanq.in（西班牙/Spain）
+
 >fr.fanq.in（法国/France）
 
 >hk.fanq.in（香港/HongKong）
@@ -57,6 +57,8 @@ categories:  安卓 Anyconnect
 >jp.fanq.in（日本/Japan）
 
 >nl.fanq.in（荷兰/Holland）
+
+>pt.fanq.in（葡萄牙/Portugal）
 
 <!-- >pl.fanq.in（波兰/Poland）
  -->
