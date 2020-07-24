@@ -32,15 +32,21 @@ categories:  安卓 Anyconnect
 
 ### 主页上点击旗帜，自动复制服务器地址到系统剪贴板
 
+>at.fanq.in（奥地利/Austria）
+
 >au.fanq.in（澳大利亚/Australia）
 
-<!-- >br.fanq.in（巴西/Brazil）
- -->
+>br.fanq.in（巴西/Brazil）
+ 
 >ca.fanq.in（加拿大/Canada）
+
+>ch.fanq.in（瑞士/Switzerland）
 
 >cn.fanq.in（中国/China）
 
 >de.fanq.in（德国/Germany）
+
+>dk.fanq.in（丹麦/Denmark）
 
 >es.fanq.in（西班牙/Spain）
 
@@ -48,26 +54,30 @@ categories:  安卓 Anyconnect
 
 >hk.fanq.in（香港/HongKong）
 
-<!-- >il.fanq.in（以色列/Israel）
- -->
->kr.fanq.in（韩国/Korea）
+>in.fanq.in（印度/India）
 
-<!-- >lu.fanq.in（卢森堡/Luxembourg）
- -->
 >jp.fanq.in（日本/Japan）
 
->nl.fanq.in（荷兰/Holland）
+>kr.fanq.in（韩国/Korea）
+
+>md.fanq.in（摩尔多瓦/Moldova）
+
+>nl.fanq.in（荷兰/Netherland）
 
 >pt.fanq.in（葡萄牙/Portugal）
 
-<!-- >pl.fanq.in（波兰/Poland）
- -->
+>ro.fanq.in（罗马尼亚/Romania）
+
 >ru.fanq.in（俄罗斯/Russia）
+
+>sc.fanq.in（塞舌尔/Seychelles）
+
+>se.fanq.in（瑞典/Sweden）
 
 >sg.fanq.in（新加坡/Singapore）
 
-<!-- >tu.fanq.in（土耳其/Turkey）
- -->
+>th.fanq.in（泰国/Thailand）
+
 >tw.fanq.in（台湾/Taiwan）
 
 >uk.fanq.in（英国/United Kingdom）
