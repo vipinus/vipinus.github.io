@@ -37,6 +37,6 @@ categories:  Chrome 浏览器代理
 ### 在线恢复的网络地址
 
 ```
-https://www.anyc.ml/proxy
+http://img.anyc.ml/proxy
 ```
 ****
