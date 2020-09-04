@@ -26,6 +26,6 @@ categories:  FireFox 浏览器代理
 ### 在线恢复的网络地址
 
 ```
-http://img.anyc.ml/proxy
+https://www.anyc.ml/proxy
 ```
 ****
