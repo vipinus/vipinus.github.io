@@ -28,7 +28,10 @@ categories:  安卓 Anyconnect
 
 ### 软件下载
 
->[AnyConnect 下载](/files/android.apk)
+>[AnyConnect 下载](/files/cisco.anyconnect_4.8.03651.apk)
+
+>[OpenConnect 下载](/files/openconnext.apk)
+
 
 ### 主页上点击旗帜，自动复制服务器地址到系统剪贴板
 
