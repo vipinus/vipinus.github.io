@@ -59,6 +59,8 @@ categories:  安卓 Anyconnect
 
 >in.fanq.in（印度/India）
 
+>it.fanq.in（意大利/Italy）
+
 >jp.fanq.in（日本/Japan）
 
 >kr.fanq.in（韩国/Korea）
