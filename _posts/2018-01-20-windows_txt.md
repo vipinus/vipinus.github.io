@@ -7,6 +7,13 @@ categories:  Windows Anyconnect
 
 ### 切换到[Windows 系统 **视频教程**](/2018/01/windows/ "Windows")
 
+### 软件下载
+
+>[新版 Win 10 下载](/files/anyconnect-macos-4.10.01075.msi)
+
+>[老版 Win 7,8 下载](/files/anyconnect-macos-4.7.04056.msi)
+
+
 ****
 
 ![windows](/assets/images/windows/windows1.png "Windows")
